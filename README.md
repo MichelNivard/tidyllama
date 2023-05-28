@@ -18,9 +18,9 @@ I use a bog standard Llama finetune usign 4-bit QLoRA to enable me to train a 7b
 
 ## next steps
 
-1. repalce Llama for soemthign with a better licence
-2. replace ChatGPT with a 65b Llama based model to enerate the Q&A in order to escape the use of ChatGPT and avoid conflicts with their terms of service if this ever progresses form reseach to an open acccess model. 
-3. implement a quantized CPU friedly evrsino fo the odel tha fits in uder 5Gb s it can run on light macbooks and laptops.
+1. replace Llama for an alternative with a better licence
+2. replace ChatGPT with a 65b Llama based model to generate the Q&A in order to escape the use of ChatGPT and avoid conflicts with their terms of service if this ever progresses form reseach to an open acccess model. 
+3. implement a quantized CPU friedly verison of the model that fits in uder 5Gb & can run on light macbooks and laptops.
 
 
 all licences are inheritted from OpenAI (generating training data for reseach perposes only) and meta (Llama model licence). 
