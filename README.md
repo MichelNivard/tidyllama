@@ -11,7 +11,7 @@ draft training script in in a notebook and runs on google colab, draft trainign 
 
 risks: The inconsistent formating of the results from step 1 means that in some cases the parsingof these data misfisres and abotu 5% of "questions" are parsed wron. This degrades the quality of the training data. 
 
-## Fintuning the model
+## Fine-tuning the model
 
 I use a bog standard Llama finetune usign 4-bit QLoRA to enable me to train a 7b parameter model on google colab
 
