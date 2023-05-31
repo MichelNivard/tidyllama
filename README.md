@@ -3,6 +3,8 @@ repo for code &amp; data for a llama model fine-tuned to be an R tutor.
 
 draft training script in in a notebook and runs on google colab, draft trainign data is in the training data folder.
 
+Model page on hugginface: https://huggingface.co/MichelNivard/tidyllama3
+
 
 ## generating the training data
 
