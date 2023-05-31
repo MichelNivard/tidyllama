@@ -5,6 +5,8 @@ draft training script in in a notebook and runs on google colab, draft trainign 
 
 Model page on hugginface: https://huggingface.co/MichelNivard/tidyllama3
 
+this demo runs the model on google colab (free but takes a couple of mins to set up) https://github.com/MichelNivard/tidyllama/blob/main/tidyllama3_7B_demo_colab.ipynb
+
 
 ## generating the training data
 
