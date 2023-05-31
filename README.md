@@ -7,6 +7,11 @@ Model page on hugginface: https://huggingface.co/MichelNivard/tidyllama3
 
 this demo runs the model on google colab (free but takes a couple of mins to set up) https://github.com/MichelNivard/tidyllama/blob/main/tidyllama3_7B_demo_colab.ipynb
 
+Alpha demo video:
+
+https://github.com/MichelNivard/tidyllama/assets/11858442/fb7dc199-3414-4b61-8ded-b53eb8e1eb17
+
+
 
 ## generating the training data
 
